@@ -1,0 +1,6 @@
+{
+  "name": "AetherIR — Red LiFi Infrarroja & Mando Logístico Satelital",
+  "description": "Simulador espacial 3D de red óptica LiFi infrarroja basada en teorema de nodos con enlace láser satelital LEO y puesto de mando para dirección logística del equipo de respuesta.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
